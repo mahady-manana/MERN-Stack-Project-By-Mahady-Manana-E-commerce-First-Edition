@@ -52,7 +52,7 @@ const config = {
 		new webpack.HotModuleReplacementPlugin(),
 		new webpack.NoEmitOnErrorsPlugin(),
 		new HtmlWebpackPlugin({
-			favicon : 'src/public/assets/favicon.png'
+			favicon : 'favicon.png'
 		})
 	],
 	resolve : {
