@@ -32,7 +32,7 @@ app.use(express.json())
 
 // const uriDB = process.env.MONGO_URI || 'mongodb+srv://<YOUR USERNAME>:<YOUR PASSWORD>@cluster0.ysfnr.mongodb.net/<PROJECTNAME>?retryWrites=true&w=majority'
 
-// MONGODB LOCAL
+// MONGODB LOCAL DEV
 const uriDB = "mongodb://localhost:27017/db"
 
 // CONNECTION TO DB
