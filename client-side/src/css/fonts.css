@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'PlayfairD';
+   src:  url('../fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+ }
+ @font-face {
+   font-family: 'Barlow';
+   src:  url('../fonts/BarlowCondensed-Regular.ttf') format('truetype');
+ }
+body {
+ 	font-family: "Barlow";
+ 	font-size: 18px;
+ }
+ h1, h2, h3, h4, h5, h6 {
+ 	font-family: "PlayfairD";
+ }
