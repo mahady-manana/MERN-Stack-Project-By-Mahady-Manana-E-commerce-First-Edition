@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "fff",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.2.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "server": "nodemon",
+    "client": "cd ./client-side && npm start",
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "j"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "k",
+  "license": "ISC"
+}
