@@ -1,0 +1,47 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "ds",
+  "main": "index.js",
+  "dependencies": {
+    "@hot-loader/react-dom": "^16.13.0",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hot-loader": "^4.12.21",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.2",
+    "file-loader": "^6.1.0",
+    "html-webpack-plugin": "^4.4.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-middleware": "^2.25.0",
+    "webpack-node-externals": "^2.5.2"
+  },
+  "scripts": {
+    "start": "webpack --mode=development --config webpack.config.server.js && node ./build/server.generated.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "d"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "d",
+  "license": "ISC"
+}
