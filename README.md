@@ -30,3 +30,15 @@ Tech :
 Here we set only the webpack for Development not for Production
 If you want to configure it for PRODUCTION, find out yourself in WEBPACK Docs
 
+# RESULT :
+## Adding product
+![Alt text](https://github.com/mahady-manana/MERN-Stack-Project-By-Mahady-Manana-E-commerce-First-Edition/blob/master/add%20new%20product.PNG)
+
+## update or delete product
+![Alt text](https://github.com/mahady-manana/MERN-Stack-Project-By-Mahady-Manana-E-commerce-First-Edition/blob/master/dashbord.PNG)
+
+## list product
+![Alt text](https://github.com/mahady-manana/MERN-Stack-Project-By-Mahady-Manana-E-commerce-First-Edition/blob/master/list.PNG)
+
+## View product
+![Alt text](https://github.com/mahady-manana/MERN-Stack-Project-By-Mahady-Manana-E-commerce-First-Edition/blob/master/view.PNG)
